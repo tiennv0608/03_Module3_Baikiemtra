@@ -1,0 +1,14 @@
+model/Category.java
+ model.Category
+DAO/GeneralDAO.java
+ DAO.GeneralDAO
+DAO/SQLConnection.java
+ DAO.SQLConnection
+model/Product.java
+ model.Product
+DAO/CategoryDAO.java
+ DAO.CategoryDAO
+DAO/ProductDAO.java
+ DAO.ProductDAO
+controller/ProductServlet.java
+ controller.ProductServlet
